@@ -1,0 +1,57 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Mortarboard / Graduation Cap Top -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,26 L78,38 L54,50 L30,38 Z" />
+    <!-- Cap Base / Skullcap -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M39,43.5 L39,53 C39,59 69,59 69,53 L69,43.5 L54,51 Z" />
+    <!-- Tassel -->
+    <path
+        android:fillColor="#FEF3C7"
+        android:strokeColor="#FDE68A"
+        android:strokeWidth="1.5"
+        android:pathData="M72,40 L76,52 L78,52 L76,40" />
+    <path
+        android:fillColor="#FEF3C7"
+        android:pathData="M75,52 A2.5,2.5 0 1,0 79,52 A2.5,2.5 0 1,0 75,52" />
+
+    <!-- Open Book Pages (Left & Right) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,62 C43,60 33,61 26,65 L26,83 C33,79 43,78 52,80 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M56,62 C65,60 75,61 82,65 L82,83 C75,79 65,78 56,80 Z" />
+
+    <!-- Book Spine Center Binding -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M52,62 L56,62 L56,80 L52,80 Z" />
+
+    <!-- Book Page Lines Left -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M31,68 L48,65 L48,67 L31,70 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M31,73 L48,70 L48,72 L31,75 Z" />
+
+    <!-- Book Page Lines Right -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M60,65 L77,68 L77,70 L60,67 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M60,70 L77,73 L77,75 L60,72 Z" />
+
+    <!-- Glowing Star above cap -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,17 L55.5,21 L59.5,21.5 L56.5,24 L57.5,28 L54,26 L50.5,28 L51.5,24 L48.5,21.5 L52.5,21 Z" />
+</vector>

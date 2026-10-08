@@ -1,0 +1,6 @@
+{
+  "name": "Madhyamik 2027 — StudyMate",
+  "description": "Complete AI-powered Madhyamik 2027 Class 10 WBBSE preparation guide with daily plans, syllabus tracker, question bank, smart study alarms, and AI teacher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
